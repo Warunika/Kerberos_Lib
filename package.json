@@ -1,0 +1,14 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Thejani",
+  "license": "ISC",
+  "dependencies": {
+    "kerberos": "^1.0.0"
+  }
+}
